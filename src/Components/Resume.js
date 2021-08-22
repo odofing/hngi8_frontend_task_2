@@ -16,6 +16,8 @@ const Resume = () => {
             <p>Lagos State Internal Revenue Services: 2015 - till date</p>
             <br />
             <h1>Qualification</h1>
+            <h6> Tech Stack </h6> <br />
+            <p>HTML, CSS, JAVASCRIPT, REACT, BOOTSTRAP, NODE.JS, EXPRESS AND MONGODB</p>
             <p>Masters of Science: DemontFort University, Leicester: 2013-2014. Project Management</p>
             <br />
             <p>Bachelor of Science: Crescent University, Abeokuta: 2007-2011. Banking and finance</p>
